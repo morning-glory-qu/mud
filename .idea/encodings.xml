@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LICENSE" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/includes/Area.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Bag.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/CreatMap.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Enemy.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Equipment.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Fight.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Helper.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/NPC.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Pill.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/PlayMap.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Player.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Skill.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/includes/Task.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Fight.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Helper.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/enemy/Enemy.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/equipment/Equipment.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/map/Area.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/map/CreatMap.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/map/PlayMap.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/npc/NPC.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/npc/Pill.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/npc/Task.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/player/Bag.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/player/Player.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/skill/Skill.cpp" charset="UTF-8" />
+  </component>
+</project>

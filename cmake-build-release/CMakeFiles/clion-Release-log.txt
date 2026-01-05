@@ -1,0 +1,7 @@
+"D:\app\JetBrain\CLion 2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=D:/app/JetBrain/CLion 2/bin/ninja/win/x64/ninja.exe" -G Ninja -S F:\cpp\CLion\mud -B F:\cpp\CLion\mud\cmake-build-release
+-- {fmt} version: 11.0.2
+-- Build type: Release
+-- Found CCache: D:/ccache/ccache.exe
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: F:/cpp/CLion/mud/cmake-build-release
